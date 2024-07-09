@@ -32,27 +32,12 @@ This project involves the analysis and modeling of agricultural data using vario
 - `Data.csv`: Cleaned and merged dataset.
 - `model_performances.csv`: Performance metrics of different models.
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone <repository_url>
-    ```
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 - **Data Preparation**: Run `dataset.ipynb` to prepare the dataset.
 - **Visualization**: Use `visualization.ipynb` to perform EDA and visualize the data.
 - **Modeling**: Train and evaluate models by running `model.ipynb`.
 - **Novelty Detection**: Predict future yields using `novalty.ipynb`.
-
-## Contributing
-
-Feel free to contribute to this project by opening a pull request or raising an issue.
 
 ## License
 
